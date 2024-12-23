@@ -29,3 +29,7 @@
 /cmake-build-debug/CMakeFiles/rules.ninja
 /cmake-build-debug/CMakeFiles/3.28.1/CMakeRCCompiler.cmake
 /cmake-build-debug/.cmake/api/v1/reply/toolchains-v1-839082c379ea4ef10a1f.json
+cmake-build-debug/.ninja_deps
+cmake-build-debug/.ninja_log
+cmake-build-debug/emu6502.exe
+cmake-build-debug/CMakeFiles/emu6502.dir/main.cpp.obj
